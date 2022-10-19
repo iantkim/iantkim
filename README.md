@@ -6,7 +6,7 @@ interests:
 
 - neuroscience (molecular, cellular, systems, behavioral, cognitive, network, computational)
 - philosophy (of science, of mind)
-- animals (bunny, birbs, cats, doggos, people, etc.) and social interactions
+- animals (rats, bunnies, birbs, cats, doggos, people, etc.) and social interactions
 
 
 what I do at work: 
