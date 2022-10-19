@@ -22,6 +22,6 @@ what I do at work:
 
 goals:
 
-- explaining multi-scale emergent phenomena of behavior and cognition
+- explain multi-scale emergent phenomena of behavior and cognition
 - add to the literature on neural coding and communication
 
