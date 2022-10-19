@@ -8,7 +8,7 @@ interests:
 - neuroscience (molecular, cellular, systems, behavioral, cognitive, network, computational ..)
 - philosophy (of science, of mind)
 - critical thinking and logic
-- animals (rats, bunnies, birbs, cats, doggos, people ..) and social interactions
+- animals (rats, bunnies, birbs, cats, doggos, people ..), plants, and social interactions
 
 
 what I do at work: 
