@@ -5,9 +5,9 @@ Hi, I'm Ian. I'm a fifth year graduate student at the Center for Molecular and B
 
 interests:
 
-- neuroscience (molecular, cellular, systems, behavioral, cognitive, network, computational)
+- neuroscience (molecular, cellular, systems, behavioral, cognitive, network, computational ..)
 - philosophy (of science, of mind)
-- animals (rats, bunnies, birbs, cats, doggos, people, etc.) and social interactions
+- animals (rats, bunnies, birbs, cats, doggos, people ..) and social interactions
 
 
 what I do at work: 
@@ -15,13 +15,14 @@ what I do at work:
 - work with rats
 - anatomy and imaging
 - electrophysiology
-- data analysis
+- data analysis (Matlab, Python, R ..)
 - coordination of projects (working in teams)
 - instruction and presentations (as TA and in lab)
 
 
 goals:
 
-- explain multi-scale emergent phenomena of behavior and cognition
+- explain behavior and cognition as multi-scale emergent phenomena
 - add to the literature on neural coding and communication
+- become an armchair theoretical neuroscience person
 
