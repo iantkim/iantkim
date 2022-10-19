@@ -4,7 +4,7 @@ Hi, I'm Ian. I'm a fifth year graduate student at the Center for Molecular and B
 
 interests:
 
-- all levels of neuroscience (molecular, cellular, systems, behavioral, cognitive, network, computational)
+- neuroscience (molecular, cellular, systems, behavioral, cognitive, network, computational)
 - philosophy (of science, of mind)
 - animals (bunny, birbs, cats, doggos, people, etc.) and social interactions
 
