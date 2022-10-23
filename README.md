@@ -22,9 +22,7 @@ what I do at work:
 - instruction and presentations (as TA and in lab)
 
 
-goals:
+current/ongoing issues (looking for input!):
 
-- explain behavior and cognition as multi-scale emergent phenomena
-- add to the literature on neural coding and communication
-- become an armchair theoretical neuroscience person
-
+- evidence for/against: time is best explained with neuroscience, not physics
+- how to be paid as an armchair theoretical neuroscientist
