@@ -26,4 +26,4 @@ current/ongoing issues (looking for input!):
 
 - evidence for/against: time is best explained with neuroscience, not physics
 - how to be paid as an armchair theoretical neuroscientist
-- the constraints of reality have 'made many ppl angry and has been widely regarded as a bad move'
+- (the constraints of) reality had 'made many ppl angry and has been widely regarded as a bad move'
