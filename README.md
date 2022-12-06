@@ -1,5 +1,5 @@
 
-Hi, I'm Ian. I'm a fifth year graduate student at the Center for Molecular and Behavioral Neuroscience (CMBN), Rutgers University - Newark, in Dr. Denis Pare's lab. My other mentor is Dr. Drew Headley.
+Hi, I'm Ian. I'm a fifth year graduate student at the Center for Molecular and Behavioral Neuroscience (CMBN), Rutgers University - Newark, in Dr. Denis Pare's lab. My other mentor is Dr. Drew Headley. I may be ex-Catholic, but at least my research interests are catholic.
 
 <br />
 
