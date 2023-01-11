@@ -15,7 +15,7 @@ current interests:
 
 what I do at work: 
 
-- work with cute rats
+- work with (cute) rats
 - anatomy and imaging
 - electrophysiology
 - immuno
