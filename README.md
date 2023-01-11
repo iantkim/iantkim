@@ -9,7 +9,7 @@ current interests:
 - philosophy (of science, of mind)
 - critical thinking and logic
 - great explanations
-- animals (rats, bunnies, birbs, cats, doggos, people ..), plants, and social interactions
+- animals (rats, bunnies, birbs, Cat., doggos, humanity ..), plants, and social interactions
 - better living wage
 
 
