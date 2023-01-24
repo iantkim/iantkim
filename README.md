@@ -18,8 +18,7 @@ what I do at work:
 - work with (cute) rats
 - anatomy and imaging
 - electrophysiology
-- immuno
-- surgery
+- surgery (viruses/tracers and electrodes)
 - data analysis (Matlab, Python, R ..)
 - coordination of projects (working in teams)
 - instruction and presentations (as TA and in lab)
