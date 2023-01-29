@@ -15,12 +15,18 @@ current interests:
 
 what I do at work: 
 
+- troubleshooting at all levels of lab work
 - work with (cute) rats
 - anatomy and imaging
-- electrophysiology
+- in vivo electrophysiology
 - surgery (viruses/tracers and electrodes)
-- data analysis (Matlab, Python, R ..)
-- coordination of projects (working in teams)
-- instruction and presentations (as TA and in lab)
+- data analysis (mainly using Matlab, Python, R ..)
+- coordination of projects (working in teams with varying responsibilities/mentoring)
+- instruction and presentations (as TA in classes and in lab)
+- advocate for better living wage
+
+what I do outside of work:
+
+- work on getting a better living wage via other lines of income so I don't have to worry about money and keep bothering (read: contribute) other scientists
 
 
