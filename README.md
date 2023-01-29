@@ -27,6 +27,6 @@ what I do at work:
 
 what I do outside of work:
 
-- work on getting a better living wage via other lines of income so I don't have to worry about money and keep bothering (read: contribute) other scientists
+- work on getting a better living wage via alternative lines of income so I don't have to worry about money and keep bothering (read: contribute) other scientists to provide answers to my inquiries 
 
 
