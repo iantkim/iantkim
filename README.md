@@ -1,30 +1,30 @@
 
-Hi, I'm Ian. I'm a fifth year graduate student at the Center for Molecular and Behavioral Neuroscience (CMBN), Rutgers University - Newark, in Dr. Denis Pare's lab. My other mentor is Dr. Drew Headley.   <insert something interesting/funny/witty/light (crowdsourcing this) here>
+With an anticipated PhD in Neuroscience this May, I am looking for opportunities to help develop embodied intelligence based on how brains efficiently produce intelligent thoughts and behaviors. I am eager to engage in learning and testing computational models that draw insights from brain sciences, aiming for practical breakthroughs.
 
+I bring acumen honed from a decade of experience in: 
+
+1) conducting psychophysics, behavioral, chemogenetic, and neurophysiology experiments, 
+2) interpreting and contextualizing results, 
+3) troubleshooting and designing experiments, and 
+4) managing mental health patients as well as labs. 
+
+I often wore multiple hats as mentee, mentor, coordinator, and leader in four different research settings across three institutions. My research experience spans from animal to human clinical models in neuroscience and psychology. 
+
+For list of publications: 
+https://scholar.google.com/citations?hl=en&user=UtQHojAAAAAJ 
+
+For posters presented at conferences and a Pytorch project on the Stroop task: 
+https://github.com/iantkim?tab=repositories
+
+I am comfortable presenting to both field experts and the public (refer to Honors & awards section). I have taught multiple introductory to upper level psychology and neuroscience courses, serving as a teaching assistant with recitation responsibilities and as an adjunct instructor where I assisted in managing courses with enrollments exceeding 100 or 200 students. 
+
+I am dedicated to fostering community and individual growth. My priorities include accountability, timely project completion, proactive goal-setting, and interdisciplinary problem-solving, all grounded in critical thinking and tailored communication.
+
+Thanks for stopping by! I look forward to connecting with you, hopefully we are a good fit.
+
+Resume: 
 <br />
 
-current interests:
 
-- neuroscience (neural coding and communication in general)
-- philosophy (of science, of mind)
-- critical thinking and logic
-- great explanations
-- animals (rats, bunnies, squirrels, birbs, Cat., doggos, humanity ..), plants, and social interactions
-
-
-stuff I do at work: 
-
-- produce and learn and help and produce and get help and ..
-- work with (cute) rats
-- anatomy and imaging
-- in vivo electrophysiology
-- rodent surgery (viruses/tracers and electrodes)
-- data analysis (mainly using Matlab, Python and R when I have to)
-- coordination of projects (work in teams with varying responsibilities/mentoring)
-- instruction and presentations (as TA in classes and in lab)
-
-what I do outside of work:
-
-- work on getting a better living wage via alternative lines of income so I don't have to worry about money which will help me keep bothering other scientists to provide answers to my inquiries 
 
 
