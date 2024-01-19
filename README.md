@@ -1,7 +1,7 @@
 
 I am looking for opportunities to test different computational models that are firmly grounded in biology, capitalizing on the constraints and insights from brain sciences, aimed at practical breakthroughs. 
 
-My research experience spans from animal to human clinical models in neuroscience and psychology. I am comfortable presenting to both field experts and the public, and have strong reviews teaching subjects in these topics. I have created tasks, tests, and ran analyses and statistical tests using Python, Matlab, and R during this time. 
+My research experience spans from animal to human clinical models in neuroscience and psychology. I am comfortable presenting to both field experts and the public, and have strong reviews teaching subjects in these topics. I have created tasks, tests, and conducted analyses and statistical tests using Python, Matlab, and R during this time. 
 
 I bring acumen honed from a decade of experience in: 
 
