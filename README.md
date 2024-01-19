@@ -16,7 +16,7 @@ https://scholar.google.com/citations?hl=en&user=UtQHojAAAAAJ
 For posters presented at conferences and a Pytorch project on the Stroop task: 
 https://github.com/iantkim?tab=repositories
 
-I am comfortable presenting to both field experts and the public (refer to Honors & awards section in https://www.linkedin.com/in/iantkim). I have taught multiple introductory to upper level psychology and neuroscience courses, serving as a teaching assistant with recitation responsibilities and as an adjunct instructor where I assisted in managing courses with enrollments exceeding 100 or 200 students. 
+I am comfortable presenting to both field experts and the public (refer to Honors & awards section in the link below). I have taught multiple introductory to upper level psychology and neuroscience courses, serving as a teaching assistant with recitation responsibilities and as an adjunct instructor where I assisted in managing courses with enrollments exceeding 100 or 200 students. 
 
 I am dedicated to fostering community and individual growth. My priorities include accountability, timely project completion, proactive goal-setting, and interdisciplinary problem-solving, all grounded in critical thinking and tailored communication.
 
