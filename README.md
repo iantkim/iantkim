@@ -1,9 +1,9 @@
 
-I am looking for opportunities to test different computational models that are firmly grounded in biology, capitalizing on the constraints and insights from brain sciences, aimed at practical breakthroughs like reducing the amount of energy used to train and employ these models. 
+I am looking for two kinds of opportunities, ideally one that encompasses both. One is to communicate science. The other is to test different computational models that are firmly grounded in biology, capitalizing on the constraints and insights from brain sciences, aimed at practical breakthroughs like reducing the amount of energy used to train and employ these models. 
 
 My research experience spans from animal to human clinical models in neuroscience and psychology. I am comfortable presenting to both field experts and the public, and have strong reviews teaching subjects in these topics. I have created tasks, tests, and conducted analyses and statistical tests using Python, Matlab, and R during this time. 
 
-For a three minute summary of my PhD thesis work please check out this (upcoming) video, which is the script I used for the 2023 3MT competition.
+For a three minute summary of my PhD thesis work please check out this video (https://www.linkedin.com/posts/iantkim_here-is-a-3-min-video-summary-of-my-phd-activity-7179429124782854144-08pp?utm_source=share&utm_medium=member_desktop).
 
 I bring acumen honed from a decade of experience in: 
 
