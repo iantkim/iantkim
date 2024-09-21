@@ -14,7 +14,7 @@ I bring acumen honed from a decade of experience in:
 5) wearing multiple hats as mentee, mentor, coordinator, and leader in four different research settings across three institutions
 
 For information on the five peer-reviewed publications (more upcoming this year): 
-https://scholar.google.com/citations?hl=en&user=UtQHojAAAAAJ 
+https://scholar.google.com/citations?user=MqLWUskAAAAJ&hl=en
 
 For posters presented at conferences and a Pytorch machine learning project on the Stroop task: 
 https://github.com/iantkim?tab=repositories
